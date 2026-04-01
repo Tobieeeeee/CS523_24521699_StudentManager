@@ -134,9 +134,9 @@ def show_search_result(success, sv_id_result, sv_info, search_term):
 
 # --- KHỞI TẠO CỬA SỔ CHÍNH ---
 
-func.add_student("SV01", "Nguyen Van A", "Nam", "CNTT", "HTTT")
-func.add_student("SV05", "Le Thi B", "Nu", "CNTT", "KHMT")
-func.add_student("SV03", "Tran Van C", "Nam", "CNTT", "KTPM")
+func.add_student("24521699", "Nguyen Van Quoc Thinh", "Nam", "KHMT", "KHMT")
+func.add_student("24521437", "Le Thi Gi Do", "Nu", "HTTT", "HTTT")
+func.add_student("24523543", "Nguyen Van Gi Do", "Nam", "KTMT", "KTMT")
 
 root = tk.Tk()
 root.title("Ứng Dụng Quản Lý Sinh Viên - B-Tree")

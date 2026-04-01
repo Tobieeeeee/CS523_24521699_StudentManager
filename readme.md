@@ -20,9 +20,9 @@ Dự án được thiết kế theo mô hình tách biệt logic và giao diện
 ```text
 CS523_24521699_StudentManager/
 ├── core/
-│   ├── btree.py        # Lõi thuật toán Cấu trúc dữ liệu B-Tree
-│   └── func.py         # Logic nghiệp vụ quản lý (Thêm, Xóa, Tìm kiếm)
-└── main.py             # Giao diện đồ họa (GUI) sử dụng Tkinter
+│   ├── btree.py        # Thuật toán B-Tree
+│   └── func.py         # Chức năng (Thêm, Xóa, Tìm kiếm)
+└── main.py             # Giao diện 
 ```
 
 ##  Hướng dẫn cài đặt và sử dụng
